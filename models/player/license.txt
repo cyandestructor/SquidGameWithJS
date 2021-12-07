@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pekka - Squid gamer
+* source:	https://sketchfab.com/3d-models/pekka-squid-gamer-a16416b6ec294c329371d0d75a6bf5a7
+* author:	3DBearOfficial (https://sketchfab.com/3DBearOfficial)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pekka - Squid gamer" (https://sketchfab.com/3d-models/pekka-squid-gamer-a16416b6ec294c329371d0d75a6bf5a7) by 3DBearOfficial (https://sketchfab.com/3DBearOfficial) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
